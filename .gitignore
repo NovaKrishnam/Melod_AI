@@ -1,0 +1,10 @@
+venv_stable/
+__pycache__/
+*.pyc
+.env
+audio_cache/
+audio_outputs/
+final_audio_outputs/
+Music generator audio/
+*.wav
+.vscode/

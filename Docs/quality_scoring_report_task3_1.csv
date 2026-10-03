@@ -1,0 +1,31 @@
+Run_ID,Variation_ID,Original_Prompt,Requested_Duration,Final_Overall_Score,Final_Status,File_Path,Duration_Accuracy_Score,Audio_Quality_Score
+1,1,A high quality **acoustic** track. Musical Descrip...,10,89,PASS,A high quality __acoustic__ track. Music.mp3,100,85
+1,2,Intended for the context of **deep relaxation**. A...,10,96,PASS,Intended for the context of __deep relax.mp3,100,100
+1,3,A high quality **acoustic** track. Musical Descrip...,10,89,PASS,A high quality __acoustic__ track. Music.mp3,100,85
+2,1,A high quality **synthwave** track. Musical Descri...,10,98,PASS,A high quality __synthwave__ track. Musi.mp3,100,100
+2,2,A studio quality **smooth synthwave** track. Music...,10,93,PASS,A studio quality __smooth synthwave__ tr.mp3,100,85
+2,3,A high quality **smooth synthwave** track. Musical...,10,98,PASS,A high quality __smooth synthwave__ trac.mp3,100,100
+3,1,A high quality **classical** track. Musical Descri...,10,98,PASS,A high quality __classical__ track. Musi.mp3,100,100
+3,2,A high quality **lo-fi classical** track. Musical ...,10,93,PASS,A high quality __lo-fi classical__ track.mp3,100,85
+3,3,Intended for the context of **rainy evening**. A s...,10,96,PASS,Intended for the context of __rainy even.mp3,100,85
+4,1,A high quality **tropical house** track. Musical D...,10,100,PASS,A high quality __tropical house__ track..mp3,100,100
+4,2,A high quality **tropical house** track. Musical D...,10,93,PASS,A high quality __tropical house__ track..mp3,100,85
+4,3,Intended for the context of **summer party**. A st...,10,100,PASS,Intended for the context of __summer par.mp3,100,100
+5,1,A high quality **cinematic orchestral** track. Mus...,10,100,PASS,A high quality __cinematic orchestral__ .mp3,100,100
+5,2,Intended for the context of **movie trailer**. A h...,10,100,PASS,Intended for the context of __movie trai.mp3,100,100
+5,3,Intended for the context of **movie trailer**. A h...,10,98,PASS,Intended for the context of __movie trai.mp3,100,100
+6,1,A high quality **electronic** track. Musical Descr...,10,96,PASS,A high quality __electronic__ track. Mus.mp3,100,85
+6,2,A studio quality **lo-fi electronic** track. Music...,10,93,PASS,A studio quality __lo-fi electronic__ tr.mp3,100,85
+6,3,A high quality **electronic** track. Musical Descr...,10,100,PASS,A high quality __electronic__ track. Mus.mp3,100,100
+7,1,A high quality **disco** track. Musical Descriptio...,10,98,PASS,A high quality __disco__ track. Musical .mp3,100,100
+7,2,A studio quality **lo-fi disco** track. Musical De...,10,100,PASS,A studio quality __lo-fi disco__ track. .mp3,100,100
+7,3,A high quality **disco** track. Musical Descriptio...,10,100,PASS,A high quality __disco__ track. Musical .mp3,100,100
+8,1,A high quality **ambient** track. Musical Descript...,10,87,PASS,A high quality __ambient__ track. Musica.mp3,100,85
+8,2,Intended for the context of **studying**. A studio...,10,91,PASS,Intended for the context of __studying__.mp3,100,100
+8,3,A studio quality **ambient** track. Musical Descri...,10,98,PASS,A studio quality __ambient__ track. Musi.mp3,100,100
+9,1,A high quality **industrial rock** track. Musical ...,10,100,PASS,A high quality __industrial rock__ track.mp3,100,100
+9,2,A high quality **smooth industrial rock** track. M...,10,100,PASS,A high quality __smooth industrial rock_.mp3,100,100
+9,3,A high quality **smooth industrial rock** track. M...,10,100,PASS,A high quality __smooth industrial rock_.mp3,100,100
+10,1,A high quality **ambient** track. Musical Descript...,10,98,PASS,A high quality __ambient__ track. Musica.mp3,100,100
+10,2,A studio quality **lo-fi ambient** track. Musical ...,10,93,PASS,A studio quality __lo-fi ambient__ track.mp3,100,85
+10,3,Intended for the context of **yoga**. A high quali...,10,88,PASS,Intended for the context of __yoga__. A .mp3,100,85

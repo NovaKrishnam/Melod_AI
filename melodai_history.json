@@ -1,0 +1,166 @@
+[
+    {
+        "original_user_input": "Upbeat acoustic pop, ukulele, whistle melody, sunny, fast tempo.",
+        "extracted_parameters": {
+            "mood": "neutral",
+            "energy_level": 5,
+            "genre": "ambient",
+            "tempo": "medium",
+            "instruments": "synthesizer, pad",
+            "context": "fallback music"
+        },
+        "timestamp": 1791020430.8194637,
+        "model_used": "facebook/musicgen-small",
+        "status": "success",
+        "file_path": "K:\\Melod_AI\\Sample Outputs\\A high quality __ambient__ track. Musica_1791020489.mp3",
+        "duration_s": 8.0,
+        "time_taken_s": 57.62,
+        "generation_params": {
+            "temperature": 0.8799999999999999,
+            "cfg_coef": 2.6,
+            "max_new_tokens": 400
+        },
+        "quality_score": 98,
+        "enhanced_prompt": "A high quality **ambient** track. Musical Description: a neutral and dynamic atmosphere. Instrumentation: **synthesizer, pad** is key. Dynamics and Tempo: The track features a **medium** rhythm, with an energy level of **5** out of 10. Intended for the context of **fallback music**.",
+        "variation_id": 1,
+        "unique_id": "20261003H1030-1-981",
+        "session_id": "20261003H1030",
+        "audio_properties": {
+            "duration": 7.94,
+            "sample_rate": 32000,
+            "channels": 1
+        },
+        "quality_score_report": {
+            "audio_quality": 100,
+            "duration_accuracy": 100,
+            "silence_detection": 100,
+            "dynamic_range": 100,
+            "frequency_balance": 85,
+            "overall_score": 98
+        },
+        "is_favorite": false
+    },
+    {
+        "original_user_input": "Melancholy solo cello and piano, slow tempo, rainy day feeling.",
+        "extracted_parameters": {
+            "mood": "neutral",
+            "energy_level": 5,
+            "genre": "ambient",
+            "tempo": "medium",
+            "instruments": "synthesizer, pad",
+            "context": "fallback music"
+        },
+        "timestamp": 1791014777.6939893,
+        "model_used": "facebook/musicgen-small",
+        "status": "success",
+        "file_path": "K:\\Melod_AI\\Sample Outputs\\A high quality __ambient__ track. Musica_1791014847.mp3",
+        "duration_s": 10.0,
+        "time_taken_s": 68.87,
+        "generation_params": {
+            "temperature": 0.8799999999999999,
+            "cfg_coef": 2.6,
+            "max_new_tokens": 500
+        },
+        "quality_score": 96,
+        "enhanced_prompt": "A high quality **ambient** track. Musical Description: a neutral and dynamic atmosphere. Instrumentation: **synthesizer, pad** is key. Dynamics and Tempo: The track features a **medium** rhythm, with an energy level of **5** out of 10. Intended for the context of **fallback music**.",
+        "variation_id": 1,
+        "unique_id": "20261003H3617-1-311",
+        "session_id": "20261003H3617",
+        "audio_properties": {
+            "duration": 9.94,
+            "sample_rate": 32000,
+            "channels": 1
+        },
+        "quality_score_report": {
+            "audio_quality": 85,
+            "duration_accuracy": 100,
+            "silence_detection": 100,
+            "dynamic_range": 100,
+            "frequency_balance": 100,
+            "overall_score": 96
+        },
+        "is_favorite": false
+    },
+    {
+        "original_user_input": "Eerie, low-frequency soundscape with metallic percussions and whispering effects.",
+        "extracted_parameters": {
+            "mood": "neutral",
+            "energy_level": 5,
+            "genre": "ambient",
+            "tempo": "medium",
+            "instruments": "synthesizer, pad",
+            "context": "fallback music"
+        },
+        "timestamp": 1790711780.8375325,
+        "model_used": "facebook/musicgen-small",
+        "status": "success",
+        "file_path": "K:\\Melod_AI\\Sample Outputs\\A high quality __ambient__ track. Musica_1790711823.mp3",
+        "duration_s": 8.0,
+        "time_taken_s": 40.61,
+        "generation_params": {
+            "temperature": 0.8799999999999999,
+            "cfg_coef": 2.6,
+            "max_new_tokens": 400
+        },
+        "quality_score": 98,
+        "enhanced_prompt": "A high quality **ambient** track. Musical Description: a neutral and dynamic atmosphere. Instrumentation: **synthesizer, pad** is key. Dynamics and Tempo: The track features a **medium** rhythm, with an energy level of **5** out of 10. Intended for the context of **fallback music**.",
+        "variation_id": 1,
+        "unique_id": "20260930H2620-1-821",
+        "session_id": "20260930H2620",
+        "audio_properties": {
+            "duration": 7.94,
+            "sample_rate": 32000,
+            "channels": 1
+        },
+        "quality_score_report": {
+            "audio_quality": 100,
+            "duration_accuracy": 100,
+            "silence_detection": 100,
+            "dynamic_range": 100,
+            "frequency_balance": 85,
+            "overall_score": 98
+        },
+        "is_favorite": true
+    },
+    {
+        "original_user_input": "High-octane electro-house, driving kick, intense synth lead, fast BPM.",
+        "extracted_parameters": {
+            "mood": "neutral",
+            "energy_level": 5,
+            "genre": "ambient",
+            "tempo": "medium",
+            "instruments": "synthesizer, pad",
+            "context": "fallback music"
+        },
+        "timestamp": 1790697115.2027905,
+        "model_used": "facebook/musicgen-small",
+        "status": "success",
+        "file_path": "K:\\Melod_AI\\Sample Outputs\\A high quality __ambient__ track. Musica_1790697151.mp3",
+        "duration_s": 8.0,
+        "time_taken_s": 33.87,
+        "generation_params": {
+            "temperature": 0.8799999999999999,
+            "cfg_coef": 2.6,
+            "max_new_tokens": 400
+        },
+        "quality_score": 98,
+        "enhanced_prompt": "A high quality **ambient** track. Musical Description: a neutral and dynamic atmosphere. Instrumentation: **synthesizer, pad** is key. Dynamics and Tempo: The track features a **medium** rhythm, with an energy level of **5** out of 10. Intended for the context of **fallback music**.",
+        "variation_id": 1,
+        "unique_id": "20260929H2155-1-575",
+        "session_id": "20260929H2155",
+        "audio_properties": {
+            "duration": 7.94,
+            "sample_rate": 32000,
+            "channels": 1
+        },
+        "quality_score_report": {
+            "audio_quality": 100,
+            "duration_accuracy": 100,
+            "silence_detection": 100,
+            "dynamic_range": 100,
+            "frequency_balance": 85,
+            "overall_score": 98
+        },
+        "is_favorite": false
+    }
+]
